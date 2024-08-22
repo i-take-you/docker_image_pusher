@@ -6,4 +6,4 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 
 
-apacherocketmq/rocketmq-dashboard:latest
+apacherocketmq/rocketmq-dashboard
