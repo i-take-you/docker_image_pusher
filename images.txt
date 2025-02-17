@@ -5,4 +5,6 @@
 #支持指定架构
 #--platform=linux/arm64
 #apacherocketmq/rocketmq-dashboard
-kingbase/kingbase
+#kingbase/kingbase
+
+docker.io/kubernetesui/dashboard:v2.7.0
