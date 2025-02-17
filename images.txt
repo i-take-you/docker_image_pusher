@@ -7,4 +7,5 @@
 #apacherocketmq/rocketmq-dashboard
 #kingbase/kingbase
 
+#
 docker.io/kubernetesui/dashboard:v2.7.0
